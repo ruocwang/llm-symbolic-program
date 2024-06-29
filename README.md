@@ -12,10 +12,12 @@
 ![GPT-3.5](https://img.shields.io/badge/Model-GPT--3.5-green)
 ![Gemini-pro](https://img.shields.io/badge/Model-Gemini--pro-green)
 
-This repo contains data and code of the paper "[Large Language Models are Interpretable Learners]()".
+This repo contains data and code of the paper "[Large Language Models are Interpretable Learners](https://arxiv.org/abs/2406.17224)".
 
 Presented by Google Research
 
 Authors: [Ruochen Wang](https://ruocwang.github.io/), [Si Si](https://scholar.google.com/citations?user=eAJfUeIAAAAJ&hl=en), [Felix Yu](https://scholar.google.com/citations?user=lYvF6cUAAAAJ&hl=en), [Dorothea Wiesmann Rothuizen](), [Cho-Jui Hsieh](https://scholar.google.com/citations?user=Wy89g4IAAAAJ&hl=en), [Inderjit S. Dhillon](https://scholar.google.com/citations?user=xBv5ZfkAAAAJ&hl=en)
 
-[[Webpage]()] [[Paper]()]
+[[Webpage]()] [[Paper](https://arxiv.org/abs/2406.17224)]
+
+Coming next week.
